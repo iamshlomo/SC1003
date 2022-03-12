@@ -2,6 +2,7 @@
 Nanyang Technological University's SC1003 Introduction to Computational Thinking and Programming module
 
 This project was independently undertaken as a graded and required component of the module under the C Programming section. Therefore, the code is in C language.
+This is also my very first ever coding project, therefore do understand that it is of amateur level.
 
 The NTU Name Card Holder has a capacity of MAX (e.g., 5 for this program) name cards. You are
 required to write a NTU Name Card Holder Management Program. The program uses an array of
