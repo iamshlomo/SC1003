@@ -5,16 +5,16 @@ This project was independently undertaken as a graded and required component of 
 This is also my very first ever coding project, therefore do understand that it is of amateur level.
 
 
-The NTU Name Card Holder has a capacity of MAX (e.g., 5 for this program) name cards. You are
+>The NTU Name Card Holder has a capacity of MAX (e.g., 5 for this program) name cards. You are
 required to write a NTU Name Card Holder Management Program. The program uses an array of
 MAX structures for the name card holder.
 Each structure should hold:
 
-nameCardID – It stores the name card identification number.
+>nameCardID – It stores the name card identification number.
 
-personName – It stores the name of the person in the name card.
+>personName – It stores the name of the person in the name card.
 
-companyName – It stores the name of the person’s company in the name card.
+>companyName – It stores the name of the person’s company in the name card.
 
 
 The nameCardID must be unique. Therefore, each NameCard structure will have a different
