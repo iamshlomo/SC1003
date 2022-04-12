@@ -32,7 +32,7 @@ support the following functions:
 
 >4: getNameCard()
 
-5: quit
+>5: quit
 
 The program should execute the functions (or options) of its menu. It will continue execution
 until the user selects to quit from the program.
