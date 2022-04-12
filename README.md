@@ -5,7 +5,7 @@ This project was independently undertaken as a graded and required component of 
 This is also my very first ever coding project, therefore do understand that it is of amateur level.
 
 
->The NTU Name Card Holder has a capacity of MAX (e.g., 5 for this program) name cards. You are
+The NTU Name Card Holder has a capacity of MAX (e.g., 5 for this program) name cards. You are
 required to write a NTU Name Card Holder Management Program. The program uses an array of
 MAX structures for the name card holder.
 Each structure should hold:
@@ -22,15 +22,15 @@ number of nameCardID when it is created. You may assume that the name of a perso
 company is not more than 20 characters long. In the program, it should display a menu to
 support the following functions:
 
-NTU NAME CARD HOLDER MANAGEMENT PROGRAM:
+>NTU NAME CARD HOLDER MANAGEMENT PROGRAM:
 
-1: listNameCards()
+>1: listNameCards()
 
-2: addNameCard()
+>2: addNameCard()
 
-3: removeNameCard()
+>3: removeNameCard()
 
-4: getNameCard()
+>4: getNameCard()
 
 5: quit
 
